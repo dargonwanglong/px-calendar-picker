@@ -1,3 +1,7 @@
+v2.0.10
+==================
+Updated version of px-datetime-common to https://github.com/ServiceMax-Engineering/px-datetime-common.git#3.3.2
+
 v2.0.9
 ==================
 * Fix px-calendar-cell timeZone undefined
