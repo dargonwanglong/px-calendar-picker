@@ -1,6 +1,6 @@
 {
   "name": "px-calendar-picker",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "main": [
     "px-calendar-picker.html"
   ],
@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "polymer": "#1.9 - 2",
-    "px-datetime-common": "git+https://github.com/ServiceMax-Engineering/px-datetime-common.git#3.3.2",
+    "px-datetime-common": "git+https://github.com/ServiceMax-Engineering/px-datetime-common.git#3.3.3",
     "px-icon-set": "^2.0.0"
   },
   "devDependencies": {
